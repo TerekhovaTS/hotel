@@ -1,1 +1,1 @@
-# hotel_papagai
+# hotel
